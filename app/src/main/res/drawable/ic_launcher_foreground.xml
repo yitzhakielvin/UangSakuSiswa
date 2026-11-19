@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Lingkaran Putih di tengah -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-30,0a30,30 0,1 1,60 0a30,30 0,1 1,-60 0" />
+    
+    <!-- Huruf 'R' presisi di tengah-kiri -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M37,42 L46,42 C48.5,42 50.5,43.8 50.5,46.5 C50.5,49.2 48.5,51 46,51 L41.5,51 L41.5,64 L37,64 Z M41.5,46 L41.5,47.5 L45.5,47.5 C46.4,47.5 47,47 47,46.5 C47,45.8 46.4,45.5 45.5,45.5 Z" />
+    <!-- Kaki miring R -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M44.5,50 L52,64 L47,64 L40.5,51.5 Z" />
+
+    <!-- Huruf 'p' presisi di tengah-kanan -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M54,47 L58,47 L58,50 C59.2,47.8 61.5,46.8 64,46.8 C68,46.8 71,50 71,55 C71,60 68,63.2 64,63.2 C61.5,63.2 59.2,62.2 58,60 L58,69 L54,69 Z M58,55 C58,58 59.8,60 62.5,60 C65.2,60 67,58 67,55 C67,52 65.2,50 62.5,50 C59.8,50 58,52 58,55 Z" />
+</vector>
